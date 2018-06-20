@@ -91,7 +91,7 @@ Your app is ready to be deployed!
 See the section about [deployment](#deployment) for more information.
 
 
-- [Feacures]
+## Feacures
 
 application platform: React
 
